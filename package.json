@@ -1,10 +1,10 @@
 {
-  "name": "theme-starter",
-  "title": "Starter Theme",
-  "displayName": "Starter Theme",
+  "name": "purple-shade",
+  "title": "Purple Shade",
+  "displayName": "Purple Shade Theme",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A great dark purple theme inspired by the Shades of Purple theme for VS Code.",
   "license": "MIT",
   "engines": {
     "mailspring": "*"
