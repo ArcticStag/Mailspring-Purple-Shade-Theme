@@ -11,7 +11,7 @@
 #### Install using Git 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
    ```sh
-   git clone https://github.com/Chroxify/Sweet-Mailspring.git
+   git clone https://github.com/ArcticStag/Mailspring-Purple-Shade-Theme.git
    ```
 
 #### Install manually
